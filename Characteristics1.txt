@@ -1,0 +1,16 @@
+public class Characteristics {
+	private String distance;
+	private double temperature;
+	private String colour;
+	private Planets planets;
+	static Characteristics chars[] = new Characteristics[10];
+	static int count = 0;
+	public Characteristics(String distance,Planets planets,String colour, double temperature) {
+		this.distance = distance;
+		this.colour=colour;
+		this.planets= planets;
+		this.temperature = temperature;
+		chars[count]=this;
+		++count;
+	}
+	
