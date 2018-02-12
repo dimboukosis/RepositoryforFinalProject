@@ -1,6 +1,6 @@
 
 public class Planets {
-	//New
+	
 	/*Arxikopoish twn metavlitwn stigmiotypou gia thn klasi Planets.
 	 * Exoume ena statiko pinaka typou Planets 10 thesewn, mia idiwtikh
 	 * metavliti String, to onoma tou planiti, mia metavliti id, h opoia
